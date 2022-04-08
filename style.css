@@ -52,13 +52,15 @@
     font-size: 20px;
     color: black;
     text-decoration: none;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
+    
     
 }
 .ico{
     display: none;
-    align-content: flex-end;
+    margin: 15px;
+    
 }
     .navegation ul{
         margin: 0;
@@ -83,6 +85,6 @@
     }
     .ico{
         display: block;
-            
+        
     }
 }
